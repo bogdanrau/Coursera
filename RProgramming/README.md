@@ -1,2 +1,2 @@
-### Coursera Programs & Files
-This is a repository for files and programs developed for Coursera courses.
+### R Programming
+Contains programs related to the *R Programming* course.
